@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006257</color>
+    <color name="colorPrimaryDark">#1F6F61</color>
+    <color name="colorAccent">#15695E</color>
+    <color name="messageTextColor">#000000</color>
+    <color name="tabsIndicatorColor">#ffffff</color>
+    <color name="bg_color">#ECF8F2</color>
+</resources>
